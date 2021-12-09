@@ -29,7 +29,7 @@ jQuery(document).ready(function ($) {
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
             titleSrc: function (item) {
-                return item.el.attr('title') + '<small>Interagency Coordination Tool</small>';
+                return item.el.attr('title') + '<small>CLRS solutions</small>';
             }
         }
     });
@@ -46,7 +46,7 @@ jQuery(document).ready(function ($) {
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
             titleSrc: function (item) {
-                return item.el.attr('title') + '<small>Woodworking</small>';
+                return item.el.attr('title') + '<small>Finance Portfolio</small>';
             }
         }
     });
